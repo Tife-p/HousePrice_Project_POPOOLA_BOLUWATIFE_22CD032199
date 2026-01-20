@@ -1,0 +1,6 @@
+Name: Popoola Boluwatife
+Matric Number: 22CD032199
+Machine Learning Algorithm Used: Linear Regression
+Model Persistence Method Used: Joblib
+Live URL: https://house-price-predictor-h6lw.onrender.com
+GitHub Repository Link: https://github.com/Tife-p/HousePrice_Project_POPOOLA_BOLUWATIFE_22CD032199
